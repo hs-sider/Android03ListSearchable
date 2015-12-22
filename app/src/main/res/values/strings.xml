@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bolivia Territorial 3</string>
+
+    <string name="defaultName">Department</string>
+    <string name="defaultCapital">Capital</string>
+    <string name="defaultExtension">111222</string>
+    <string name="defaultPopulation">333444</string>
+</resources>
